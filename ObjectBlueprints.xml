@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+  <object Name="Snapjaw" Load="Merge">
+    <part Name="CowardlyBehaviour"/>
+  </object>
+  <object Name="BaseInsect" Load="Merge">
+    <part Name="CowardlyBehaviour"/>
+  </object>
+  <object Name="BaseSpider" Load="Merge">
+    <part Name="CowardlyBehaviour"/>
+  </object>
+  <object Name="BaseHindren" Load="Merge">
+    <part Name="CowardlyBehaviour"/>
+  </object>
+  <object Name="BaseDog" Load="Merge">
+    <part Name="CowardlyBehaviour"/>
+  </object>
+ </objects>

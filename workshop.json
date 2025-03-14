@@ -1,0 +1,8 @@
+{
+  "WorkshopId": 0,
+  "Title": "Discretionary Valor (1.0 Fix)",
+  "Description": "Certain classes of creature (snapjaw, insect, spider, hindren, dog) will decide not to attack you if you're much stronger than them, even if they'd be hostile normally. They'll still get mad if you damage them.\n\nThis mod has had work done to enable it to function with Release 1.0. All attempts to retain all original functionality have been made, but the updating author provides no support. -LL",
+  "Tags": "QOL, NPC",
+  "Visibility": "0",
+  "ImagePath": "preview.png"
+}
